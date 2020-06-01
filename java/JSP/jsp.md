@@ -2,4 +2,3 @@
 - [라이프사이클](lifecycle.md)
 - [JSP 문법](jsp_문법.md)
 - [내장객체](내장객체.md)
-- [redirect](redirect.md)
